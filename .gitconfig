@@ -4,3 +4,5 @@
 	emnail = 1299139457@qq.com
 [core]
 	autocrlf = false
+[http]
+	sslVerify = false
